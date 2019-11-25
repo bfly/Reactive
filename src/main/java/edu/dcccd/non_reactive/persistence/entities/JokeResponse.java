@@ -1,4 +1,4 @@
-package edu.dcccd.reactive.json;
+package edu.dcccd.non_reactive.persistence.entities;
 
 public class JokeResponse {
     private String type;

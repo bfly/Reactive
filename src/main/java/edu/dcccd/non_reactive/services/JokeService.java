@@ -1,6 +1,6 @@
-package edu.dcccd.reactive.services;
+package edu.dcccd.non_reactive.services;
 
-import edu.dcccd.reactive.json.JokeResponse;
+import edu.dcccd.non_reactive.persistence.entities.JokeResponse;
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;

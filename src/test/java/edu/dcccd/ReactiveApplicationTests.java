@@ -1,4 +1,4 @@
-package edu.dcccd.reactive;
+package edu.dcccd;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
