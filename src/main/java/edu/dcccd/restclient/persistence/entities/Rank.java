@@ -1,4 +1,4 @@
-package edu.dcccd.non_reactive.persistence.entities;
+package edu.dcccd.restclient.persistence.entities;
 
 public enum Rank {
     ENSIGN, LIEUTENANT, COMMANDER, CAPTAIN, COMMODORE, ADMIRAL

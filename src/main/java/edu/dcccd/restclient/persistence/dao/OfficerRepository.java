@@ -1,7 +1,7 @@
-package edu.dcccd.non_reactive.persistence.dao;
+package edu.dcccd.restclient.persistence.dao;
 
-import edu.dcccd.non_reactive.persistence.entities.Officer;
-import edu.dcccd.non_reactive.persistence.entities.Rank;
+import edu.dcccd.restclient.persistence.entities.Officer;
+import edu.dcccd.restclient.persistence.entities.Rank;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.query.Param;
 

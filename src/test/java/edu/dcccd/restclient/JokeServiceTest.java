@@ -1,6 +1,6 @@
-package edu.dcccd.non_reactive;
+package edu.dcccd.restclient;
 
-import edu.dcccd.non_reactive.services.JokeService;
+import edu.dcccd.restclient.services.JokeService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;

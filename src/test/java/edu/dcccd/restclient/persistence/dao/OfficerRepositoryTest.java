@@ -1,8 +1,7 @@
-package edu.dcccd.non_reactive.persistence.dao;
+package edu.dcccd.restclient.persistence.dao;
 
-import edu.dcccd.non_reactive.persistence.entities.Officer;
-import edu.dcccd.non_reactive.persistence.entities.Rank;
-import edu.dcccd.non_reactive.persistence.dao.OfficerRepository;
+import edu.dcccd.restclient.persistence.entities.Officer;
+import edu.dcccd.restclient.persistence.entities.Rank;
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

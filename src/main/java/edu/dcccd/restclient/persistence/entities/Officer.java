@@ -1,4 +1,4 @@
-package edu.dcccd.non_reactive.persistence.entities;
+package edu.dcccd.restclient.persistence.entities;
 
 import javax.persistence.*;
 
